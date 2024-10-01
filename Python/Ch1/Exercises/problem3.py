@@ -1,0 +1,1 @@
+# DMOJ problem ccc13j1, Next in Line
